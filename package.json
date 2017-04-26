@@ -1,6 +1,6 @@
 {
   "name": "@zavr/mocha-steps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sequential scenarios for Mocha",
   "author": "Romain Prieto",
   "keywords": [
